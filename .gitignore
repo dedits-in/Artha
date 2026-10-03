@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+
+# Vector store (too large)
+data/vectorstore/
+
+# Raw data files (too large)
+data/raw/*.json
+data/raw/*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Ollama models (local only)
+*.gguf

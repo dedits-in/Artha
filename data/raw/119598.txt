@@ -1,0 +1,31 @@
+
+Fund Name: SBI Large Cap Fund - Direct Plan - Growth
+Fund House: SBI Mutual Fund
+Scheme Type: Open Ended Schemes
+Scheme Category: Equity Scheme - Large Cap Fund
+
+Recent NAV History (last 24 entries):
+  Date: 01-10-2026 | NAV: ₹98.91410
+  Date: 30-09-2026 | NAV: ₹99.54790
+  Date: 29-09-2026 | NAV: ₹99.56180
+  Date: 28-09-2026 | NAV: ₹99.81490
+  Date: 25-09-2026 | NAV: ₹101.29120
+  Date: 24-09-2026 | NAV: ₹100.89490
+  Date: 23-09-2026 | NAV: ₹102.51160
+  Date: 22-09-2026 | NAV: ₹101.78340
+  Date: 21-09-2026 | NAV: ₹101.97190
+  Date: 18-09-2026 | NAV: ₹101.76740
+  Date: 17-09-2026 | NAV: ₹100.88600
+  Date: 16-09-2026 | NAV: ₹100.17970
+  Date: 15-09-2026 | NAV: ₹99.94700
+  Date: 11-09-2026 | NAV: ₹101.40130
+  Date: 10-09-2026 | NAV: ₹101.62480
+  Date: 09-09-2026 | NAV: ₹101.48780
+  Date: 08-09-2026 | NAV: ₹102.38060
+  Date: 07-09-2026 | NAV: ₹102.84970
+  Date: 04-09-2026 | NAV: ₹103.33300
+  Date: 03-09-2026 | NAV: ₹103.36800
+  Date: 02-09-2026 | NAV: ₹103.28250
+  Date: 01-09-2026 | NAV: ₹103.95450
+  Date: 31-08-2026 | NAV: ₹104.70430
+  Date: 28-08-2026 | NAV: ₹104.97350

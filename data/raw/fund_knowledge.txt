@@ -1,0 +1,75 @@
+MUTUAL FUND KNOWLEDGE BASE - INDIA
+
+=== LARGE CAP FUNDS (Low-Medium Risk) ===
+Suitable for: Conservative to moderate investors, 3-5 year horizon
+Expected Returns: 10-12% CAGR
+Examples: Mirae Asset Large Cap Fund, HDFC Top 100 Fund, ICICI Prudential Bluechip Fund
+Expense Ratio: 0.5-1.5%
+Risk Level: Moderate
+Best for: Stable long-term wealth creation, retirement, education goals
+
+=== MID CAP FUNDS (Medium-High Risk) ===
+Suitable for: Aggressive investors, 5-7 year horizon
+Expected Returns: 12-15% CAGR
+Examples: HDFC Mid-Cap Opportunities Fund, Kotak Emerging Equity Fund, Axis Midcap Fund
+Expense Ratio: 0.7-1.8%
+Risk Level: High
+Best for: Wealth creation, long-term goals above 5 years
+
+=== SMALL CAP FUNDS (High Risk) ===
+Suitable for: Very aggressive investors, 7+ year horizon
+Expected Returns: 15-18% CAGR
+Examples: SBI Small Cap Fund, Nippon India Small Cap Fund, Quant Small Cap Fund
+Expense Ratio: 0.8-2.0%
+Risk Level: Very High
+Best for: High growth, long-term goals above 7 years
+
+=== ELSS / TAX SAVING FUNDS ===
+Suitable for: Investors wanting tax benefit under Section 80C
+Lock-in Period: 3 years
+Expected Returns: 12-14% CAGR
+Examples: Axis ELSS Tax Saver Fund, Mirae Asset ELSS Fund, Parag Parikh ELSS Fund
+Tax Benefit: Up to ₹1.5 lakh deduction under Section 80C
+Risk Level: High (equity-oriented)
+Best for: Tax saving + wealth creation
+
+=== HYBRID / BALANCED ADVANTAGE FUNDS ===
+Suitable for: Moderate risk investors, 3-5 year horizon
+Expected Returns: 9-11% CAGR
+Examples: ICICI Prudential Balanced Advantage Fund, HDFC Balanced Advantage Fund
+Expense Ratio: 0.5-1.5%
+Risk Level: Moderate
+Best for: First-time investors, medium-term goals like car purchase, travel
+
+=== DEBT FUNDS (Low Risk) ===
+Suitable for: Conservative investors, short-term goals
+Expected Returns: 6-8% CAGR
+Examples: HDFC Short Term Debt Fund, ICICI Prudential Corporate Bond Fund
+Risk Level: Low
+Best for: Emergency fund, short-term goals under 3 years, capital preservation
+
+=== SHORT TERM GOALS (1-3 years) ===
+Recommended: Debt funds, liquid funds, short duration funds
+Avoid: Small cap, mid cap (too volatile for short horizon)
+
+=== MEDIUM TERM GOALS (3-5 years) ===
+Recommended: Hybrid funds, large cap funds, flexi cap funds
+Examples: Parag Parikh Flexi Cap Fund, HDFC Flexi Cap Fund
+
+=== LONG TERM GOALS (5+ years) ===
+Recommended: Mid cap, small cap, ELSS, flexi cap funds
+Expected Returns: 12-18% CAGR depending on category
+
+=== SIP BEST PRACTICES ===
+- Start early to benefit from compounding
+- Increase SIP by 10% every year (step-up SIP)
+- Stay invested through market volatility
+- Diversify across 3-4 fund categories
+- Review portfolio every 6 months
+
+=== GOAL BASED RECOMMENDATIONS ===
+Car Purchase (3-5 years): Hybrid funds + Large cap (60:40)
+Retirement (10+ years): Mid cap + Large cap + ELSS (50:30:20)
+Child Education (10-15 years): Mid cap + Small cap + Large cap (40:30:30)
+Tax Saving: ELSS funds (3 year lock-in)
+Emergency Fund: Liquid funds or short-term debt funds
