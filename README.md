@@ -53,49 +53,64 @@ The RAG pipeline ingests AMFI NAV data and a curated mutual fund knowledge base,
 
 ## AI Agent Pipeline
 
+````
 User Goal
-↓
-Streamlit App (frontend)
-↓
-CrewAI Orchestrator (sequential process)
-↓
-[1] Retriever Agent → queries ChromaDB (RAG) → returns top-5 relevant chunks
-↓
-[2] Reasoning Agent → analyses goal + context → recommends 3 fund categories
-↓
-[3] Calculator Agent → computes SIP amount, CAGR, risk allocation breakdown
-↓
-[4] Reporter Agent → writes final structured investment report
-↓
-Streamlit App (displays report + agent reasoning trail)
+````
 
+**The issue is the nested code block inside markdown.** Replace the entire AI Agent Pipeline section with this:
+
+````markdown
+## AI Agent Pipeline
+
+```
+User Goal
+    ↓
+Streamlit App (frontend)
+    ↓
+CrewAI Orchestrator (sequential process)
+    ↓
+[1] Retriever Agent  →  queries ChromaDB (RAG) → returns top-5 relevant chunks
+    ↓
+[2] Reasoning Agent  →  analyses goal + context → recommends 3 fund categories
+    ↓
+[3] Calculator Agent →  computes SIP amount, CAGR, risk allocation breakdown
+    ↓
+[4] Reporter Agent   →  writes final structured investment report
+    ↓
+Streamlit App (displays report + agent reasoning trail)
+```
 
 All agents use **Ollama LLaMA 3** as the underlying LLM, running locally on the user's machine.
+````
 
----
+And replace the Project Structure section with this:
 
+````markdown
 ## Project Structure
 
+```
 artha/
 ├── agents/
-│ ├── init.py
-│ ├── retriever_agent.py # RAG-based retrieval agent
-│ ├── reasoning_agent.py # Investment analysis agent
-│ ├── calculator_agent.py # SIP and CAGR calculation agent
-│ └── reporter_agent.py # Report generation agent
+│   ├── __init__.py
+│   ├── retriever_agent.py      # RAG-based retrieval agent
+│   ├── reasoning_agent.py      # Investment analysis agent
+│   ├── calculator_agent.py     # SIP and CAGR calculation agent
+│   └── reporter_agent.py       # Report generation agent
 ├── rag/
-│ ├── init.py
-│ ├── ingest.py # Loads, chunks and embeds documents into ChromaDB
-│ └── retriever.py # Queries vector store for relevant context
+│   ├── __init__.py
+│   ├── ingest.py               # Loads, chunks and embeds documents into ChromaDB
+│   └── retriever.py            # Queries vector store for relevant context
 ├── data/
-│ ├── raw/ # Source data: AMFI NAV CSV, fund knowledge base TXT
-│ └── vectorstore/ # ChromaDB persistent vector index
+│   ├── raw/                    # Source data: AMFI NAV CSV, fund knowledge base TXT
+│   └── vectorstore/            # ChromaDB persistent vector index
 ├── tools/
-│ ├── init.py
-│ └── finance_tools.py # SIP, CAGR, risk score calculation functions
-├── crew.py # CrewAI orchestration — agents, tasks, crew
-├── app.py # Streamlit frontend
+│   ├── __init__.py
+│   └── finance_tools.py        # SIP, CAGR, risk score calculation functions
+├── crew.py                     # CrewAI orchestration — agents, tasks, crew
+├── app.py                      # Streamlit frontend
 └── requirements.txt
+```
+````
 
 
 ---
