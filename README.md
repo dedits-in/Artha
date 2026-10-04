@@ -51,13 +51,6 @@ The RAG pipeline ingests AMFI NAV data and a curated mutual fund knowledge base,
 
 ---
 
-## AI Agent Pipeline
-
-````
-User Goal
-````
-
-**The issue is the nested code block inside markdown.** Replace the entire AI Agent Pipeline section with this:
 
 ````markdown
 ## AI Agent Pipeline
@@ -82,8 +75,6 @@ Streamlit App (displays report + agent reasoning trail)
 
 All agents use **Ollama LLaMA 3** as the underlying LLM, running locally on the user's machine.
 ````
-
-And replace the Project Structure section with this:
 
 ````markdown
 ## Project Structure
