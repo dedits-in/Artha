@@ -1,0 +1,27 @@
+
+MUTUAL FUND PROFILE
+===================
+Fund Name      : ICICI Prudential Large Cap Fund (erstwhile Bluechip Fund) - Direct Plan - Growth
+Fund House     : ICICI Prudential Mutual Fund
+Scheme Type    : Open Ended Schemes
+Scheme Category: Equity Scheme - Large Cap Fund
+Scheme Code    : 120586
+
+PERFORMANCE
+-----------
+1 Year Return  : 3.37%
+3 Year Return  : 60.41%
+Latest NAV     : ₹112.29000 (as of 01-10-2026)
+
+RECENT NAV HISTORY
+------------------
+  01-10-2026  →  ₹112.29000
+  30-09-2026  →  ₹113.22000
+  29-09-2026  →  ₹113.24000
+  28-09-2026  →  ₹113.83000
+  25-09-2026  →  ₹115.57000
+  24-09-2026  →  ₹115.14000
+  23-09-2026  →  ₹116.82000
+  22-09-2026  →  ₹116.27000
+  21-09-2026  →  ₹116.61000
+  18-09-2026  →  ₹116.39000

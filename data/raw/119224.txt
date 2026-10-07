@@ -1,0 +1,27 @@
+
+MUTUAL FUND PROFILE
+===================
+Fund Name      : DSP Short Term Fund - Direct Plan - Monthly IDCW
+Fund House     : DSP Mutual Fund
+Scheme Type    : Open Ended Schemes
+Scheme Category: Debt Scheme - Short Duration Fund
+Scheme Code    : 119224
+
+PERFORMANCE
+-----------
+1 Year Return  : -0.25%
+3 Year Return  : 1.95%
+Latest NAV     : ₹11.72390 (as of 01-10-2026)
+
+RECENT NAV HISTORY
+------------------
+  01-10-2026  →  ₹11.72390
+  30-09-2026  →  ₹11.72730
+  29-09-2026  →  ₹11.72330
+  28-09-2026  →  ₹11.72280
+  25-09-2026  →  ₹11.73130
+  24-09-2026  →  ₹11.73730
+  23-09-2026  →  ₹11.75520
+  22-09-2026  →  ₹11.75690
+  21-09-2026  →  ₹11.74880
+  18-09-2026  →  ₹11.74240

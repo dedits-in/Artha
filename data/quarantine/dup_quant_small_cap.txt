@@ -1,0 +1,27 @@
+
+MUTUAL FUND PROFILE
+===================
+Fund Name      : Quant Small Cap Fund - Direct Plan - Growth Option
+Fund House     : quant Mutual Fund
+Scheme Type    : Open Ended Schemes
+Scheme Category: Equity Scheme - Small Cap Fund
+Scheme Code    : 120828
+
+PERFORMANCE
+-----------
+1 Year Return  : 30.14%
+3 Year Return  : 115.43%
+Latest NAV     : ₹313.67540 (as of 01-10-2026)
+
+RECENT NAV HISTORY
+------------------
+  01-10-2026  →  ₹313.67540
+  30-09-2026  →  ₹315.92050
+  29-09-2026  →  ₹314.31390
+  28-09-2026  →  ₹313.13810
+  25-09-2026  →  ₹318.93500
+  24-09-2026  →  ₹318.10230
+  23-09-2026  →  ₹322.69820
+  22-09-2026  →  ₹321.25290
+  21-09-2026  →  ₹319.78560
+  18-09-2026  →  ₹320.77020

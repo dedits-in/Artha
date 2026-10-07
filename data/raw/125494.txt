@@ -1,0 +1,27 @@
+
+MUTUAL FUND PROFILE
+===================
+Fund Name      : SBI SMALL CAP FUND - Regular Plan - Growth
+Fund House     : SBI Mutual Fund
+Scheme Type    : Open Ended Schemes
+Scheme Category: Equity Scheme - Small Cap Fund
+Scheme Code    : 125494
+
+PERFORMANCE
+-----------
+1 Year Return  : 9.25%
+3 Year Return  : 76.49%
+Latest NAV     : ₹178.04700 (as of 01-10-2026)
+
+RECENT NAV HISTORY
+------------------
+  01-10-2026  →  ₹178.04700
+  30-09-2026  →  ₹180.44280
+  29-09-2026  →  ₹180.03710
+  28-09-2026  →  ₹181.32440
+  25-09-2026  →  ₹183.93350
+  24-09-2026  →  ₹183.67390
+  23-09-2026  →  ₹185.57390
+  22-09-2026  →  ₹184.90980
+  21-09-2026  →  ₹184.79340
+  18-09-2026  →  ₹185.86870

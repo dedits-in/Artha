@@ -1,4 +1,6 @@
 crewai
+litellm
+python-dotenv
 langchain-community
 langchain-huggingface
 langchain-text-splitters

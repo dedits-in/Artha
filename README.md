@@ -1,6 +1,6 @@
 # Artha — AI Investment Research Agent
 
-> A multiagent RAG system for personalised investment research and financial planning, built using CrewAI, Ollama (LLaMA 3), and ChromaDB.
+> A multiagent RAG system for personalised investment research and financial planning, built using CrewAI, Groq's API, and ChromaDB.
 
 ---
 
@@ -8,7 +8,7 @@
 
 Artha is an Agentic AI system that acts as a personal investment research analyst. A user describes their financial goal — buying a car, saving for retirement, funding education — and Artha autonomously retrieves relevant mutual fund data, analyses it, computes SIP projections, and generates a plain-English investment plan.
 
-The system is built entirely on local, open-source tools with no external API dependency. It demonstrates a fully functional multiagent pipeline with Retrieval-Augmented Generation (RAG), sequential agent orchestration, and a conversational frontend.
+The RAG store and frontend run locally. CrewAI agents use the Groq API, configured with a key in `.env`.
 
 ---
 
@@ -28,9 +28,9 @@ Existing tools either provide raw data without interpretation, or require users 
 
 - Build a **multiagent AI system** where specialised agents collaborate to solve a complex financial research task
 - Implement a **RAG pipeline** that grounds agent responses in real mutual fund data rather than hallucinated facts
-- Demonstrate **sequential agent orchestration** using CrewAI with a local LLM (LLaMA 3 via Ollama)
+- Demonstrate **sequential agent orchestration** using CrewAI with Groq-hosted Llama 3.3
 - Deliver a **working web application** where users can input their financial goals and receive structured investment plans
-- Keep the system **fully local** — no OpenAI API, no cloud dependency, runs on a personal laptop
+- Keep user data and the vector store local while using an API-hosted LLM
 
 ---
 
@@ -73,7 +73,7 @@ CrewAI Orchestrator (sequential process)
 Streamlit App (displays report + agent reasoning trail)
 ```
 
-All agents use **Ollama LLaMA 3** as the underlying LLM, running locally on the user's machine.
+All agents use Groq through CrewAI/LiteLLM. The model defaults to `groq/qwen/qwen3.8-27b`; configure it with `ARTHA_LLM_MODEL` in `.env` if you want to select another model available to your Groq account.
 ````
 
 ````markdown
@@ -110,7 +110,7 @@ artha/
 
 | Layer | Technology |
 |-------|-----------|
-| LLM | Ollama + LLaMA 3 (local) |
+| LLM | Groq API + Qwen 3.8 27B |
 | Multiagent Orchestration | CrewAI |
 | RAG — Vector Store | ChromaDB |
 | RAG — Embeddings | HuggingFace `all-MiniLM-L6-v2` |
@@ -124,7 +124,7 @@ artha/
 
 ### Prerequisites
 - Python 3.11+
-- [Ollama](https://ollama.com) installed
+- A Groq API key
 
 ### Steps
 
@@ -141,13 +141,13 @@ source venv/bin/activate     # Mac/Linux
 # 3. Install dependencies
 pip install -r requirements.txt
 
-# 4. Pull LLaMA 3 model
-ollama pull llama3
+# 4. Configure the API key (copy .env.example to .env and add your key)
+copy .env.example .env
 
 # 5. Add data files to data/raw/
 #    Download NAVAll.txt from amfiindia.com and save as NAVAll.csv
 
-# 6. Build the vector store
+# 6. Build the vector store if it does not already exist
 python rag/ingest.py
 
 # 7. Run the app
@@ -160,7 +160,30 @@ streamlit run app.py
 
 **Course:** Agentic AI — Experiential Learning Project  
 **Program:** MBA in Data Science and Data Analytics  
-**Concepts demonstrated:** Multiagent systems, Retrieval-Augmented Generation (RAG), sequential agent orchestration, local LLM deployment, goal-based financial reasoning
+**Concepts demonstrated:** Multiagent systems, Retrieval-Augmented Generation (RAG), sequential agent orchestration, API-hosted LLMs, goal-based financial reasoning
+
+## Verify the Groq API connection
+
+Activate the project virtual environment and confirm the selected model configuration:
+
+```powershell
+python -c "from agents.llm_config import get_groq_model; print(get_groq_model())"
+```
+
+Send a small prompt through LiteLLM, the provider interface used by CrewAI:
+
+```powershell
+python -c "from pathlib import Path; from dotenv import load_dotenv; load_dotenv(Path('.env')); from litellm import completion; r=completion(model='groq/qwen/qwen3.8-27b', messages=[{'role':'user','content':'Reply with exactly: Artha API test passed'}], max_tokens=40); print(r.choices[0].message.content)"
+```
+
+Then run the full sequential crew and launch the UI:
+
+```powershell
+python crew.py
+streamlit run app.py
+```
+
+Keep `.env` private; `.env.example` is only a template.
 
 ---
 

@@ -1,0 +1,27 @@
+
+MUTUAL FUND PROFILE
+===================
+Fund Name      : Nippon India Small Cap Fund - Direct Plan - Growth Option
+Fund House     : Nippon India Mutual Fund
+Scheme Type    : Open Ended Schemes
+Scheme Category: Equity Scheme - Small Cap Fund
+Scheme Code    : 118778
+
+PERFORMANCE
+-----------
+1 Year Return  : 24.05%
+3 Year Return  : 111.09%
+Latest NAV     : ₹202.29360 (as of 01-10-2026)
+
+RECENT NAV HISTORY
+------------------
+  01-10-2026  →  ₹202.29360
+  30-09-2026  →  ₹204.59420
+  29-09-2026  →  ₹204.35820
+  28-09-2026  →  ₹204.74600
+  25-09-2026  →  ₹208.01540
+  24-09-2026  →  ₹207.71250
+  23-09-2026  →  ₹210.38180
+  22-09-2026  →  ₹209.10610
+  21-09-2026  →  ₹209.51590
+  18-09-2026  →  ₹209.35680

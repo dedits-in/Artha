@@ -1,0 +1,27 @@
+
+MUTUAL FUND PROFILE
+===================
+Fund Name      : Axis Small Cap Fund - Direct Plan - Growth Option
+Fund House     : Axis Mutual Fund
+Scheme Type    : Open Ended Schemes
+Scheme Category: Equity Schemes - Small Cap Fund
+Scheme Code    : 125354
+
+PERFORMANCE
+-----------
+1 Year Return  : 16.08%
+3 Year Return  : 100.48%
+Latest NAV     : ₹132.52000 (as of 01-10-2026)
+
+RECENT NAV HISTORY
+------------------
+  01-10-2026  →  ₹132.52000
+  30-09-2026  →  ₹133.91000
+  29-09-2026  →  ₹133.59000
+  28-09-2026  →  ₹134.11000
+  25-09-2026  →  ₹136.07000
+  24-09-2026  →  ₹135.73000
+  23-09-2026  →  ₹138.01000
+  22-09-2026  →  ₹137.10000
+  21-09-2026  →  ₹137.27000
+  18-09-2026  →  ₹137.63000

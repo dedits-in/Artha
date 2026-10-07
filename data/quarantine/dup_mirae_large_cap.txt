@@ -1,0 +1,27 @@
+
+MUTUAL FUND PROFILE
+===================
+Fund Name      : Axis ELSS- Tax Saver Fund - Direct Plan - Growth Option
+Fund House     : Axis Mutual Fund
+Scheme Type    : Open Ended Schemes
+Scheme Category: Equity Schemes - ELSS- Tax Saver Fund
+Scheme Code    : 120503
+
+PERFORMANCE
+-----------
+1 Year Return  : -0.06%
+3 Year Return  : 45.79%
+Latest NAV     : ₹104.80800 (as of 01-10-2026)
+
+RECENT NAV HISTORY
+------------------
+  01-10-2026  →  ₹104.80800
+  30-09-2026  →  ₹105.55000
+  29-09-2026  →  ₹105.83600
+  28-09-2026  →  ₹106.38300
+  25-09-2026  →  ₹108.15250
+  24-09-2026  →  ₹108.05280
+  23-09-2026  →  ₹110.53660
+  22-09-2026  →  ₹109.94460
+  21-09-2026  →  ₹110.14830
+  18-09-2026  →  ₹109.98920

@@ -1,0 +1,27 @@
+
+MUTUAL FUND PROFILE
+===================
+Fund Name      : Parag Parikh Flexi Cap Fund - Direct Plan - Growth
+Fund House     : PPFAS Mutual Fund
+Scheme Type    : Open Ended Schemes
+Scheme Category: Equity Scheme - Flexi Cap Fund
+Scheme Code    : 122639
+
+PERFORMANCE
+-----------
+1 Year Return  : 6.82%
+3 Year Return  : 70.54%
+Latest NAV     : ₹88.25690 (as of 01-10-2026)
+
+RECENT NAV HISTORY
+------------------
+  01-10-2026  →  ₹88.25690
+  30-09-2026  →  ₹88.83550
+  29-09-2026  →  ₹88.71880
+  28-09-2026  →  ₹88.97700
+  25-09-2026  →  ₹89.95800
+  24-09-2026  →  ₹89.60340
+  23-09-2026  →  ₹90.34030
+  22-09-2026  →  ₹90.26860
+  21-09-2026  →  ₹90.53240
+  18-09-2026  →  ₹89.85690

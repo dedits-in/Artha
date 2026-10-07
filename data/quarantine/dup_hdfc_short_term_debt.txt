@@ -1,0 +1,27 @@
+
+MUTUAL FUND PROFILE
+===================
+Fund Name      : SBI Large Cap Fund - Direct Plan - Growth
+Fund House     : SBI Mutual Fund
+Scheme Type    : Open Ended Schemes
+Scheme Category: Equity Scheme - Large Cap Fund
+Scheme Code    : 119598
+
+PERFORMANCE
+-----------
+1 Year Return  : 0.96%
+3 Year Return  : 60.48%
+Latest NAV     : ₹98.91410 (as of 01-10-2026)
+
+RECENT NAV HISTORY
+------------------
+  01-10-2026  →  ₹98.91410
+  30-09-2026  →  ₹99.54790
+  29-09-2026  →  ₹99.56180
+  28-09-2026  →  ₹99.81490
+  25-09-2026  →  ₹101.29120
+  24-09-2026  →  ₹100.89490
+  23-09-2026  →  ₹102.51160
+  22-09-2026  →  ₹101.78340
+  21-09-2026  →  ₹101.97190
+  18-09-2026  →  ₹101.76740

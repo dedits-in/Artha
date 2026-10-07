@@ -1,0 +1,93 @@
+
+MUTUAL FUND CATEGORY GUIDE - INDIA
+====================================
+
+LARGE CAP FUNDS
+---------------
+Definition: Invest minimum 80% in top 100 companies by market capitalisation.
+Risk Level: Moderate
+Ideal Horizon: 3-5 years
+Expected Returns: 10-12% CAGR (long term)
+Best For: Conservative equity investors, first-time investors
+Top Funds: Mirae Asset Large Cap, HDFC Top 100, ICICI Prudential Bluechip, Axis Bluechip
+SEBI Category: Large Cap Fund
+
+MID CAP FUNDS
+-------------
+Definition: Invest minimum 65% in companies ranked 101-250 by market cap.
+Risk Level: High
+Ideal Horizon: 5-7 years
+Expected Returns: 12-15% CAGR (long term)
+Best For: Investors with moderate-high risk appetite
+Top Funds: HDFC Mid-Cap Opportunities, Kotak Emerging Equity, Axis Midcap
+SEBI Category: Mid Cap Fund
+
+SMALL CAP FUNDS
+---------------
+Definition: Invest minimum 65% in companies ranked below 250 by market cap.
+Risk Level: Very High
+Ideal Horizon: 7+ years
+Expected Returns: 15-18% CAGR (long term, high volatility)
+Best For: Aggressive investors with long horizon
+Top Funds: SBI Small Cap, Nippon India Small Cap, Quant Small Cap
+SEBI Category: Small Cap Fund
+
+FLEXI CAP FUNDS
+---------------
+Definition: Can invest across large, mid and small cap without restriction.
+Risk Level: Moderate to High
+Ideal Horizon: 5+ years
+Expected Returns: 12-15% CAGR
+Best For: Investors wanting diversification across market caps
+Top Funds: Parag Parikh Flexi Cap, HDFC Flexi Cap, Quant Flexi Cap
+SEBI Category: Flexi Cap Fund
+
+ELSS - TAX SAVING FUNDS
+------------------------
+Definition: Equity Linked Savings Scheme with 3-year lock-in period.
+Risk Level: High
+Lock-in Period: 3 years (mandatory)
+Tax Benefit: Up to ₹1.5 lakh deduction under Section 80C
+Expected Returns: 12-14% CAGR
+Best For: Investors seeking tax saving under Section 80C + wealth creation
+Top Funds: Axis ELSS, Mirae Asset ELSS, Quant ELSS
+SEBI Category: ELSS
+
+HYBRID - BALANCED ADVANTAGE FUNDS
+----------------------------------
+Definition: Dynamically manages equity-debt allocation based on market valuations.
+Risk Level: Moderate
+Ideal Horizon: 3-5 years
+Expected Returns: 9-11% CAGR
+Best For: First-time investors, moderate risk appetite, medium-term goals
+Top Funds: ICICI Prudential Balanced Advantage, HDFC Balanced Advantage
+SEBI Category: Dynamic Asset Allocation
+
+DEBT FUNDS - SHORT DURATION
+-----------------------------
+Definition: Invest in bonds and fixed income securities with 1-3 year maturity.
+Risk Level: Low
+Ideal Horizon: 1-3 years
+Expected Returns: 6-8% CAGR
+Best For: Capital preservation, short-term goals, emergency corpus
+Top Funds: HDFC Short Term Debt, ICICI Prudential Corporate Bond
+SEBI Category: Short Duration Fund
+
+GOAL-BASED RECOMMENDATIONS
+===========================
+Car Purchase (3-5 years)    → Hybrid Balanced Advantage + Large Cap (60:40)
+Retirement (10+ years)      → Mid Cap + Large Cap + ELSS (40:40:20)
+Child Education (10-15 yrs) → Mid Cap + Small Cap + Large Cap (40:30:30)
+Tax Saving (any horizon)    → ELSS funds (3-year lock-in)
+Emergency Fund              → Liquid funds or short-duration debt funds
+House Down Payment (5-7 yr) → Flexi Cap + Hybrid (70:30)
+Wedding Fund (3-5 years)    → Large Cap + Hybrid (60:40)
+
+SIP BEST PRACTICES
+==================
+- Start early — every year of delay costs significant compounding
+- Step-up SIP — increase SIP by 10% every year
+- Stay invested through market corrections
+- Diversify across 3-4 fund categories maximum
+- Review portfolio every 6 months, rebalance annually
+- Avoid stopping SIP during market downturns — buy more units at lower NAV

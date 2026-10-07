@@ -1,0 +1,27 @@
+
+MUTUAL FUND PROFILE
+===================
+Fund Name      : Nippon India Liquid Fund - Direct Plan - Growth Option
+Fund House     : Nippon India Mutual Fund
+Scheme Type    : Open Ended Schemes
+Scheme Category: Debt Scheme - Liquid Fund
+Scheme Code    : 118701
+
+PERFORMANCE
+-----------
+1 Year Return  : 7.62%
+3 Year Return  : 27.02%
+Latest NAV     : ₹6981.67120 (as of 04-10-2026)
+
+RECENT NAV HISTORY
+------------------
+  04-10-2026  →  ₹6981.67120
+  02-10-2026  →  ₹6979.40650
+  01-10-2026  →  ₹6978.27500
+  30-09-2026  →  ₹6975.66300
+  29-09-2026  →  ₹6974.11230
+  28-09-2026  →  ₹6973.11090
+  27-09-2026  →  ₹6972.23070
+  25-09-2026  →  ₹6969.92060
+  24-09-2026  →  ₹6970.24950
+  23-09-2026  →  ₹6969.81220
